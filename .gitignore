@@ -1,0 +1,15 @@
+# Dependencies
+node_modules/
+bun.lockb
+
+# Build Output
+dist/
+index.js
+
+# IDEs
+.vscode/
+.idea/
+
+# OS Files
+.DS_Store
+Thumbs.db

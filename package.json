@@ -1,0 +1,14 @@
+{
+  "name": "venbridge",
+  "version": "1.0.0",
+  "description": "Port of Vencord's plugin and theme system for Revenge.",
+  "main": "src/index.ts",
+  "type": "module",
+  "scripts": {
+    "build": "bun build ./src/index.ts --outfile ./dist/index.js --external \"@revenge/*\" --external \"react\""
+  },
+  "devDependencies": {
+    "bun-types": "latest",
+    "typescript": "latest"
+  }
+}
