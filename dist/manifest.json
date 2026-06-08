@@ -1,0 +1,12 @@
+{
+  "name": "VenBridge",
+  "description": "Port of Vencord's plugin and theme system for Revenge.",
+  "authors": [
+    {
+      "name": "Gemini CLI",
+      "id": "123456789012345678"
+    }
+  ],
+  "main": "index.js",
+  "version": "1.0.0"
+}
